@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/fthimashamna/myleetcodes/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/fthimashamna/myleetcodes/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -16,5 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/fthimashamna/myleetcodes/tree/master/2540-minimum-common-value) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
