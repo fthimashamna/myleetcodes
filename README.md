@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/fthimashamna/myleetcodes/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/fthimashamna/myleetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/fthimashamna/myleetcodes/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/fthimashamna/myleetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/fthimashamna/myleetcodes/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -34,4 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/fthimashamna/myleetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/fthimashamna/myleetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
