@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/fthimashamna/myleetcodes/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/fthimashamna/myleetcodes/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
 | ------- |
