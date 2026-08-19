@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/fthimashamna/myleetcodes/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/fthimashamna/myleetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/fthimashamna/myleetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/fthimashamna/myleetcodes/tree/master/2540-minimum-common-value) |
 ## Hash Table
@@ -41,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/fthimashamna/myleetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/fthimashamna/myleetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/fthimashamna/myleetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
