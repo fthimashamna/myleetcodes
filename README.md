@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/fthimashamna/myleetcodes/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/fthimashamna/myleetcodes/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/fthimashamna/myleetcodes/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/fthimashamna/myleetcodes/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fthimashamna/myleetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/fthimashamna/myleetcodes/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
