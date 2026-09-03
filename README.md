@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/fthimashamna/myleetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/fthimashamna/myleetcodes/tree/master/2540-minimum-common-value) |
+| [3945-digit-frequency-score](https://github.com/fthimashamna/myleetcodes/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/fthimashamna/myleetcodes/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/fthimashamna/myleetcodes/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/fthimashamna/myleetcodes/tree/master/2769-find-the-maximum-achievable-number) |
+| [3945-digit-frequency-score](https://github.com/fthimashamna/myleetcodes/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
