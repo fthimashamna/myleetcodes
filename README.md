@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/fthimashamna/myleetcodes/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/fthimashamna/myleetcodes/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/fthimashamna/myleetcodes/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/fthimashamna/myleetcodes/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/fthimashamna/myleetcodes/tree/master/2413-smallest-even-multiple) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/fthimashamna/myleetcodes/tree/master/2413-smallest-even-multiple) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fthimashamna/myleetcodes/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fthimashamna/myleetcodes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
