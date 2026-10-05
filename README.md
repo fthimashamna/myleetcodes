@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/fthimashamna/myleetcodes/tree/master/0020-valid-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fthimashamna/myleetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/fthimashamna/myleetcodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Number Theory
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/fthimashamna/myleetcodes/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/fthimashamna/myleetcodes/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/fthimashamna/myleetcodes/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/fthimashamna/myleetcodes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
